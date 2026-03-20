@@ -1,4 +1,4 @@
-#MUSE: Emulating Case-Based Writing Expertise via Multi-Agent LLMs for Long-Form Text Generation
+# MUSE: Emulating Case-Based Writing Expertise via Multi-Agent LLMs for Long-Form Text Generation
 
  Writing Framework for Introductory Texts with LLMs
 The use of large language models (LLMs) for article generation has become
