@@ -20,7 +20,7 @@ The LLM prompts configured in MUSE are located in the `prompts.py` file.
 
 ## More Details
 Detailed information such as experimental details, baseline prompts, evaluation prompts, and output examples can be found in the
-`MUSE_APPENDIX.pdf
+`MUSE_APPENDIX.pdf`
 
 ## MUSE Multi-Agent Automated Writing Framework
 
